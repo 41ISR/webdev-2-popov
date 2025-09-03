@@ -1,0 +1,19 @@
+{
+  "name": "webdev-2-popov",
+  "version": "1.0.0",
+  "description": "## Срок сдачи: 03.09.2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^3.6.2"
+  }
+}
